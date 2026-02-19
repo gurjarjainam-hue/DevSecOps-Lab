@@ -1,4 +1,6 @@
 Line from branchA
+Line from branchB
+branchB
 New change for pull request
 PR change Jainam
 DevSecOps PR change
